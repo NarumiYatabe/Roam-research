@@ -1,0 +1,28 @@
+.rm-clickable-pill.empty-pill {
+  color: var(--foreground);
+  background-color: var(--background);
+}
+
+.rm-clickable-pill {
+  color: var(--background);
+  background-color: var(--blue);
+  opacity: 0.7;
+}
+
+.rm-clickable-pill.level1-pill {
+  color: var(--background);
+  background-color: var(--blue);
+  opacity: 0.8;
+}
+
+.rm-clickable-pill.level2-pill {
+  color: var(--background);
+  background-color: var(--blue);
+  opacity: 0.9;
+}
+
+.rm-clickable-pill.level3-pill {
+  color: var(--background);
+  background-color: var(--blue);
+  opacity: 1;
+}
