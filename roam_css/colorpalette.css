@@ -1,0 +1,75 @@
+:root {
+  
+  /* Fonts */
+  --title-font : 'Times New Roman';
+  --code-font : 'Roboto_Mono'
+  
+  /*palette*/
+  --1: #041121;
+  --2: #0B2647;
+  --3: #A8943D;
+  --4: #F4F4F4;
+  --5: #FFFFFF;
+  
+
+  /* Dracula color palette */
+  --blue:   #8be9fd;
+  --green:  #50fa7b; 
+  --orange: #ffb86c;
+  --pink:   #ff79c6;
+  --purple: #bd93f9;
+  --red:    #ff5555;
+  --yellow: #f1fa8c;
+
+  
+  /* Dracula black & white colors */
+  --background:  #0b2647;
+  --current-line: #44475a;
+  --foreground:   #f8f8f2;
+  --comment:      #6272a4;
+
+  
+  /* Other UI colors */
+  --dark-blue:    #29454B;
+  --dark-yellow:  #606438;
+  --background2:  #333545;
+  --foreground2:  #BDCAD4;
+  --search-input: #e4e9ed;
+  --search-hover: #d5dadf;
+  --bullet-outer: #6c6f75;
+  --bullet-inner: #D8DEE9;
+  --column-title: #818D9B;
+  
+  
+  /* for レインボーインデント */
+    --indent1: #5F388BAD;
+    --indent2: #4A57BAAD;
+    --indent3: #48864DAD;
+    --indent4: #A7A15AAD;
+    --indent5: #AD7E48AD;
+    --indent6: #A5494FAD;
+    --indent7: #634071AD;
+    --indent8: #303472AD;
+    --indent9: #395C45AD;
+    --indent10: #7C7948AD;
+    --indent11: #7D5039AD;
+    --indent12: #A5494FAD;
+    --indent13: #706597AD;
+    --indent14: #657D91AD;
+    --indent15: #6D8D76AD;
+    --indent16: #A09A84AD;
+    --indent17: #987174AD;
+    --indent18: #8B5F78AD;
+  
+  
+  /* for right sidebar カードモード */
+  --masonry-startWidth: 30vw; /* 400px; Change this to "unset" if you don't want the sidebar pages to be reset in grid like format each time*/
+  --masonry-minWidth: 10vw;
+  --masonry-maxWidth: 80vw;
+  --masonry-startHeight: unset; /* 242px; Change this to "unset" if you don't want the sidebar pages to be reset in grid like format each time*/
+  --masonry-minHeight: 10vh;
+  --right-sidebar-custom-width: 60%; /* 66.6%; When extended to 40/60 width, this will be the new width for the sidebar (set to 60% to keep Roam defaults) */
+  --left-sidebar-custom-width: 40%; /* 33.3%; When extended to 40/60 width, this will be the new width for the main left side window (set to 40% to keep Roam defaults) */
+  
+  
+}
