@@ -33,5 +33,6 @@
 ## [Right sidebar](https://github.com/NarumiYatabe/Roam-research/blob/master/roam_css/Right-sidebar/right_sidebar.css)
   
 ## All pages list  
+- [一般](https://github.com/NarumiYatabe/Roam-research/blob/master/roam_css/All-Pages_List/normal.css)
   
 ## Others
