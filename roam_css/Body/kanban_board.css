@@ -1,0 +1,15 @@
+.kanban-board {
+  background-color: #6c6f75;
+}
+
+.kanban-title {
+  border-bottom: 1px solid var(--foreground);
+}
+
+.kanban-column {
+  background-color: var(--background2);
+}
+
+.kanban-card {
+  background-color: var(--background);
+}
