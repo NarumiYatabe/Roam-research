@@ -1,0 +1,40 @@
+.rm-pages-title-text {
+  color: var(--foreground);
+}
+
+.rm-all-pages .table .rm-pages-row.rm-pages-row-header {
+  background-color: var(--background2);
+}
+
+.rm-all-pages .table .rm-pages-row {
+  border-bottom: 1px solid var(--background2); 
+}
+
+.rm-pages-title-col span {
+  color: var(--bullet-outer);
+}
+
+.rm-pages-col span {
+  color: var(--bullet-outer);
+}
+
+.rm-pages-title-col span.sorted-header-text {
+  color: var(--foreground2);
+}
+
+.rm-pages-col span.sorted-header-text {
+  color: var(--foreground2);
+}
+
+.sorting-button-group .focused::before {
+  color: var(--foreground2);
+}
+
+.rm-pages-title-col a.rm-pages-title-text:hover {
+  color: var(--foreground2);
+}
+
+/* タイトルの脇につく本文の最初の部分　*/
+.rm-pages-title-col span.title-children-text {
+  color: var(--comment); 
+}
