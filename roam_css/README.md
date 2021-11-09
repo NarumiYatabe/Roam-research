@@ -6,7 +6,7 @@
 
 ## Body  
 - [Note title](https://github.com/NarumiYatabe/Roam-research/blob/master/roam_css/Body/title.css)  
-- Background color & Text color
+- [Background color & Text color](https://github.com/NarumiYatabe/Roam-research/blob/master/roam_css/Body/back_and_text_color.css)
 
 ## Left bar  
 
