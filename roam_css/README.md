@@ -9,7 +9,7 @@
 - [背景色と文字色](https://github.com/NarumiYatabe/Roam-research/blob/master/roam_css/Body/back_and_text_color.css)  
 - [ハイライト(デフォルト)](https://github.com/NarumiYatabe/Roam-research/blob/master/roam_css/Body/highlight_default.css)  
 - [色付き文字(formatting wordのみ)](https://github.com/NarumiYatabe/Roam-research/blob/master/roam_css/Body/colored_text_formattingword.css)
-- [カーソルを利用した範囲選択]
+- [カーソルを利用した範囲選択](https://github.com/NarumiYatabe/Roam-research/blob/master/roam_css/Body/range_selection.css)
 
 ## Left bar  
 
