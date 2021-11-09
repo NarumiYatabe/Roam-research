@@ -1,0 +1,28 @@
+
+#right-sidebar > div 
+{
+  background-color: var(--2);/* 背景 */
+  color: var(--foreground); /*文字*/
+  
+  .bp3-button.bp3-minimal.bp3-small{
+    color: var(--comment); 
+  }
+  .roam-block .bp3-button {
+  	background-color: var(--3);
+    color: var(--foreground2);
+    background-image: none;
+  }
+  .roam-block .bp3-button:hover {
+    background-color: var(--foreground2);
+    color: var(--foreground);
+  }
+  .dont-focus-block.bp3-button {
+    background-color: var(--background2);
+    color: var(--foreground2);
+    background-image: none;
+  }
+  .dont-focus-block.bp3-button:hover {
+    background-color: var(--current-line);
+    color: var(--foreground);
+  }
+}
