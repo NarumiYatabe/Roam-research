@@ -20,6 +20,7 @@
 - [ブロックの左についていて階層が開いたかを表す三角のやつ](https://github.com/NarumiYatabe/Roam-research/blob/master/roam_css/Body/block_triangle.css)
 - [TODOのチェックボックス](https://github.com/NarumiYatabe/Roam-research/blob/master/roam_css/Body/todo_checkbox.css)
 - コード
+  - [Inline code](https://github.com/NarumiYatabe/Roam-research/blob/master/roam_css/Body/inline_code.css)
 
 ## Left bar  
 
