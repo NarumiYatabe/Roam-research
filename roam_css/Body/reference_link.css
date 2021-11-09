@@ -1,0 +1,19 @@
+.rm-block-ref {
+  border-bottom: 0.3px solid var(--comment);
+}
+
+.rm-block-ref:hover { /* カーソルを上に置いた時  */
+  background-color: var(--background2);
+}
+
+.rm-page-ref {  
+  color: var(--comment);
+}
+
+.rm-page-ref-link-color {
+  color: var(--3);
+}
+
+.rm-page-ref-brackets {
+  color: var(--comment);
+}
