@@ -1,0 +1,5 @@
+/* ページ下のLinked reference のノート題名 */
+.rm-ref-page-view-title span { 
+  color: var(--3);
+  font-family: var(--title-font);
+}
