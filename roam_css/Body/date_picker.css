@@ -1,0 +1,9 @@
+.bp3-datepicker{
+  background-color: var(--current-line);
+  color: var(--foreground2);
+}
+
+.bp3-html-select.bp3-minimal.bp3-datepicker-month-select > select,
+.bp3-html-select.bp3-minimal.bp3-datepicker-year-select > select {
+  color: var(--foreground2);
+}
