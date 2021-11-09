@@ -30,7 +30,7 @@
   
 ## [Left bar](https://github.com/NarumiYatabe/Roam-research/blob/master/roam_css/Leftbar/leftbar.css)  
   
-## Right sidebar
+## [Right sidebar](https://github.com/NarumiYatabe/Roam-research/blob/master/roam_css/Right-sidebar/right_sidebar.css)
   
 ## All pages list  
   
