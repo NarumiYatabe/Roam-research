@@ -1,0 +1,16 @@
+.checkmark {
+  background-color: var(--current-line); /*チェック前　背景*/
+  border-color: var(--5);　/*チェック前　枠*/
+}
+
+.check-container input:active ~ .bp3-control-indicator {
+  background-color: var(--bullet-outer);
+}
+
+.check-container input:not(:disabled):active:checked ~ .bp3-control-indicator {
+  background-color: var(--bullet-outer);
+}
+
+.check-container input:checked ~ .checkmark {
+  background-color: var(--dark-yellow);
+}
