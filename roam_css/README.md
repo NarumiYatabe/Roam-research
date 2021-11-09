@@ -17,6 +17,7 @@
   - [リファレンスリンク (ブロックをコピーして他ページに貼り付けた時のやつ)](https://github.com/NarumiYatabe/Roam-research/blob/master/roam_css/Body/reference_link.css)
   - [Clickable link](https://github.com/NarumiYatabe/Roam-research/blob/master/roam_css/Body/clickable_link.css)
   - [Sliders](https://github.com/NarumiYatabe/Roam-research/blob/master/roam_css/Body/sliders.css)
+  - [ブロックの左についていて階層が開いたかを表す三角のやつ](https://github.com/NarumiYatabe/Roam-research/blob/master/roam_css/Body/block_triangle.css)
 
 ## Left bar  
 
