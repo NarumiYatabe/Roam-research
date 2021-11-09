@@ -10,7 +10,7 @@
 - [ハイライト(デフォルト)](https://github.com/NarumiYatabe/Roam-research/blob/master/roam_css/Body/highlight_default.css)  
 - [色付き文字(formatting wordのみ)](https://github.com/NarumiYatabe/Roam-research/blob/master/roam_css/Body/colored_text_formattingword.css)
 - [カーソルを利用した範囲選択](https://github.com/NarumiYatabe/Roam-research/blob/master/roam_css/Body/range_selection.css)
-- [ブラケット内の文字]
+- [ブラケット内の文字](https://github.com/NarumiYatabe/Roam-research/blob/master/roam_css/Body/bracketed_text.css)
 
 ## Left bar  
 
