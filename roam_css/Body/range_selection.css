@@ -1,0 +1,16 @@
+/*
+.roam-highlight {
+  background-color: var(--blue);
+}
+*/
+.block-highlight-yellow {
+  background-color: var(--dark-yellow);
+}
+
+.block-highlight-blue {
+  background-color: var(--comment);
+}
+
+.block-highlight-grey {
+  background-color: var(--dark-yellow);
+}
