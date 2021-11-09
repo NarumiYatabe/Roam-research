@@ -1,0 +1,17 @@
+.bp3-control.bp3-checkbox .bp3-control-indicator {
+  background-color: var(--current-line);
+  border-color: var(--background2);
+  background-image: none;
+} 
+
+.bp3-control.bp3-checkbox input:active ~ .bp3-control-indicator {
+  background-color: var(--bullet-outer);
+}
+
+.bp3-control.bp3-checkbox input:not(:disabled):active:checked ~ .bp3-control-indicator {
+  background-color: var(--bullet-outer);
+}
+
+.bp3-control.bp3-checkbox input:checked ~ .bp3-control-indicator {
+  background-color: var(--dark-yellow);
+} 
