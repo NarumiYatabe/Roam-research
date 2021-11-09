@@ -1,0 +1,22 @@
+span.bp3-icon-small.bp3-icon-star { /*SHORTCUTSの星の色*/
+  color: var(--3);
+}
+
+.roam-body .roam-app .roam-sidebar-container .roam-sidebar-content .starred-pages-wrapper .starred-pages .page,
+.roam-body .roam-app .roam-sidebar-container .roam-sidebar-content .log-button,
+.roam-body .roam-app .roam-sidebar-container .roam-sidebar-content .starred-pages-wrapper,
+.roam-body .roam-app .roam-sidebar-container > * {
+  color: var(--3); /*全文字*/
+  opacity: 1; /* 透け度 */
+}
+
+.roam-body .roam-app .roam-sidebar-container .roam-sidebar-content .starred-pages-wrapper .starred-pages .page:hover,
+.roam-body .roam-app .roam-sidebar-container .roam-sidebar-content .log-button:hover {
+  background: var(--current-line);
+  color: var(--foreground);
+  opacity: 0.9;
+}
+
+.roam-body .roam-app .roam-sidebar-container .roam-sidebar-content .log-button .bp3-button:hover {
+  background-color: var(--foreground);
+}
