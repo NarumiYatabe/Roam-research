@@ -1,6 +1,6 @@
 # Index  
 
-## Color palette  
+## [Color palette](https://github.com/NarumiYatabe/Roam-research/blob/master/roam_css/colorpalette.css)  
 ## Topbar  
 ## Body  
 ## Left bar  
