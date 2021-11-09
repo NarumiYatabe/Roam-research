@@ -8,7 +8,7 @@
 - [ノートタイトル](https://github.com/NarumiYatabe/Roam-research/blob/master/roam_css/Body/title.css)  
 - [背景色と文字色](https://github.com/NarumiYatabe/Roam-research/blob/master/roam_css/Body/back_and_text_color.css)  
 - [ハイライト(デフォルト)](https://github.com/NarumiYatabe/Roam-research/blob/master/roam_css/Body/highlight_default.css)  
-- [色付き文字(formatting wordのみ)]
+- [色付き文字(formatting wordのみ)](https://github.com/NarumiYatabe/Roam-research/blob/master/roam_css/Body/colored_text_formattingword.css)
 
 ## Left bar  
 
