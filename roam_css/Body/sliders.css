@@ -1,0 +1,13 @@
+.bp3-slider-progress.bp3-intent-primary {
+  background-color: var(--3);
+}
+
+.bp3-slider-handle {
+  background-color: var(--3);
+  background-image: none;
+}
+
+.bp3-slider-handle .bp3-slider-label {
+  background-color: var(--3);
+  color: var(--3);
+}
