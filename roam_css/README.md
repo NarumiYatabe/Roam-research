@@ -14,6 +14,7 @@
 ##### リンク系  
 - [Linked reference](https://github.com/NarumiYatabe/Roam-research/blob/master/roam_css/Body/linked_reference.css)  
 - [外部リンク](https://github.com/NarumiYatabe/Roam-research/blob/master/roam_css/Body/external_link.css)
+- [リファレンスリンク (ブロックをコピーして他ページに貼り付けた時のやつ)](https://github.com/NarumiYatabe/Roam-research/blob/master/roam_css/Body/reference_link.css)
 
 ## Left bar  
 
