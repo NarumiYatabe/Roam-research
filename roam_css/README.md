@@ -27,7 +27,7 @@
   - [Kanban board](https://github.com/NarumiYatabe/Roam-research/blob/master/roam_css/Body/kanban_board.css)
   - [Kanban matrix](https://github.com/NarumiYatabe/Roam-research/blob/master/roam_css/Body/kanban_matrix.css)
 
-## Left bar  
+## [Left bar](https://github.com/NarumiYatabe/Roam-research/blob/master/roam_css/Leftbar/leftbar.css)  
 
 ## Right sidebar
 
