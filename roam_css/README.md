@@ -21,7 +21,7 @@
 - [TODOのチェックボックス](https://github.com/NarumiYatabe/Roam-research/blob/master/roam_css/Body/todo_checkbox.css)
 - コード
   - [Inline code](https://github.com/NarumiYatabe/Roam-research/blob/master/roam_css/Body/inline_code.css)
-  - [Multiline code blocks]
+  - Multiline code blocks
 - [Date picker](https://github.com/NarumiYatabe/Roam-research/blob/master/roam_css/Body/date_picker.css)
 - Kanban
   - [Kanban board](https://github.com/NarumiYatabe/Roam-research/blob/master/roam_css/Body/kanban_board.css)
