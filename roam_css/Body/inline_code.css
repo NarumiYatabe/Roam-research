@@ -1,0 +1,5 @@
+code {
+  color: var(--1); /* 文字色 */
+  background-color: var(----current-line);
+  border-color: var(----current-line); 
+}
