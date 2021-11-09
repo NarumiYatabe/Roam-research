@@ -1,0 +1,7 @@
+.roam-topbar {
+  background-color: var(--background);
+}
+
+span.bp3-icon:empty {
+  color: var(--3);
+}
