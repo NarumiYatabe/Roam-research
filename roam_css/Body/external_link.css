@@ -1,0 +1,7 @@
+a { /*カーソルを上に置いてない時*/
+  color: var(--indent14);
+}
+
+a:hover { /* カーソルを上に置いた時 */
+  color: var(--indent14);
+}
