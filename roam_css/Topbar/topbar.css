@@ -3,5 +3,5 @@
 }
 
 span.bp3-icon:empty {
-  color: var(--3);
+  color: var(--3); // 抽出アイコン
 }
