@@ -1,0 +1,114 @@
+/* CODEBLOCK */
+
+
+/* OneDark CodeMirror theme from https://github.com/codemirror/theme-one-dark/blob/main/src/one-dark.ts */
+
+@media (prefers-color-scheme: dark) {
+  .cm-activeLine, 
+  .cm-focused .cm-activeLine, 
+  .cm-activeLineGutter, 
+  .cm-focused .cm-activeLineGutter, 
+  .ͼ2 .cm-activeLine, 
+  .ͼ3 .cm-activeLine, 
+  .ͼ2 .cm-activeLineGutter, 
+  .ͼ3 .cm-activeLineGutter {
+        background-color: #2c313a !important 
+   }
+  .rm-code-block {
+      background-color: #21252b;
+      color: #abb2bf;
+      border-radius: 5px;
+  }
+  .ͼ2 .cm-content, .ͼ3 .cm-content {
+      caret-color: #528bff;
+  }
+  .ͼ2 .cm-selectionBackground, 
+  .ͼ3 .cm-selectionBackground, 
+  .ͼ2.cm-focused .cm-selectionBackground, 
+  .ͼ3.cm-focused .cm-selectionBackground, 
+  .cm-content::selection {
+        background-color: #3E4451;
+  }
+  .ͼ1 .cm-cursor, .ͼ3 .cm-cursor {
+      border-left-color: #528bff;
+  }
+  .ͼ2 .cm-specialChar, .ͼ3 .cm-specialChar {
+      color: #56b6c2;
+  }
+  .ͼ1 .cm-placeholder {
+      color: #7d8799;
+  }
+  .ͼ1 .cm-foldPlaceholder {
+      background-color: transparent;
+      border-color: #7d8799;
+      color: #7d8799;
+  }
+  .ͼ1 .cm-gutters, .ͼ2 .cm-gutters, .ͼ3 .cm-gutters {
+      background-color: #21252b;
+      color: #abb2bf;
+      border-right: 1px solid #abb2bf 
+  }
+  .ͼ1 .cm-matchingBracket {
+      background-color: #bad0f847;
+      outline: 1px solid #515a6b;
+  }
+  .ͼ1 .cm-nonmatchingBracket {
+      background-color: red;
+  }
+  .ͼa {
+     /* keyword */
+      color: #c678dd;
+  }
+  .ͼb {
+     /* operator */
+      color: #56b6c2;
+  }
+  .ͼc {
+     /* color */
+      color: #d19a66;
+  }
+  .ͼd {
+     /* string */
+      color: #98c379;
+  }
+  .ͼe {
+     /* regexp */
+      color: #56b6c2;
+  }
+  .ͼf {
+     /* variable */
+      color: #61afef;
+  }
+  .ͼg {
+     /* ??? */
+      color: #56b6c2;
+  }
+  .ͼh {
+     /* property name */
+      color: #e06c75;
+  }
+  .ͼi {
+     /* typename, classname, etc. */
+      color: #e5c07b;
+  }
+  .ͼj {
+     /* ??? */
+      color: #d19a66;
+  }
+  .ͼk {
+     /* name */
+      color: #e06c75;
+  }
+  .ͼl {
+     /* comment */
+      color: #7d8799;
+  }
+  .ͼm {
+     /* ??? */
+      color: #98c379;
+  }
+  .ͼn {
+     /* ??? */
+      color: #d19a66;
+  }
+}
